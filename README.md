@@ -19,7 +19,7 @@ Os notebooks desenvolvem passo-a-passo o modelo de regressão linear seguindo um
 
 ## Dados e Definições (disponíveis também no notebook)
 
-![alt text](https://github.com/Samirnunes/gradient_descent_implementation/blob/main/Imagens/dados_e_definicoes.PNG)
+![alt text](https://github.com/Samirnunes/ml_implementations/blob/main/linear_regression/Imagens/dados_e_definicoes.PNG)
 
 ## Tecnologias e Bibliotecas Utilizadas
 
