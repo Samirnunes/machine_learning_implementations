@@ -31,7 +31,7 @@ Os notebooks desenvolvem passo-a-passo o modelo de regressão linear seguindo um
 - Numpy
 - Matplotlib
 
-2) Regressão Logística: uma aplicação na detecção de pacientes de alto risco da Covid-19
+# 2) Regressão Logística: uma aplicação na detecção de pacientes de alto risco da Covid-19
 
 Link do artigo associado do Medium: https://medium.com/@samir.silva12342/implementa%C3%A7%C3%A3o-do-zero-regress%C3%A3o-log%C3%ADstica-3e0f4dff9c32
  
