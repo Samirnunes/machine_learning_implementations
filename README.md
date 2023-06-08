@@ -35,7 +35,7 @@ Os notebooks desenvolvem passo-a-passo o modelo de regressão linear seguindo um
 
 Link do artigo associado do Medium: https://medium.com/@samir.silva12342/implementa%C3%A7%C3%A3o-do-zero-regress%C3%A3o-log%C3%ADstica-3e0f4dff9c32
  
-Há dois notebooks na pasta logistic_regression:
+Há dois notebooks na pasta `logistic_regression`:
 
 - `01_logistic_regression_sklearn.ipynb`: nele, realizei a aplicação passo-a-passo das boas práticas de feature engineering no dataset 'Covid Data', disponível no Kaggle e apliquei um modelo de regressão logística aos dados para prever pacientes de alto risco de óbito devido à Covid-19, utilizando a biblioteca 'scikit-learn', do Python.
 
