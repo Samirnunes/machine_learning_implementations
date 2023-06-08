@@ -8,7 +8,7 @@ Links dos artigos associados do Medium:
 
 - https://medium.com/@samir.silva12342/analisando-modelos-simples-e-complexos-de-redes-neurais-aplicados-%C3%A0-regress%C3%A3o-linear-c0b021ecbe0c
 
-Há quatro notebooks na pasta 'linear_regression':
+Há quatro notebooks na pasta `linear_regression`:
 
 - 01_model_implementation_standard.ipynb: contém a implementação passo-a-passo do modelo de regressão linear utilizando Gradiente Descendente Estocástico com Mini-lotes.
 - 02_validation.ipynb: contém uma aplicação prática do modelo, apresentando também as funções utilizadas para dividir os dados em training, validation e test.
