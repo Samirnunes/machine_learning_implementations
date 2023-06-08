@@ -10,10 +10,10 @@ Links dos artigos associados do Medium:
 
 Há quatro notebooks na pasta `linear_regression`:
 
-- 01_model_implementation_standard.ipynb: contém a implementação passo-a-passo do modelo de regressão linear utilizando Gradiente Descendente Estocástico com Mini-lotes.
-- 02_validation.ipynb: contém uma aplicação prática do modelo, apresentando também as funções utilizadas para dividir os dados em training, validation e test.
-- 03_model_implementation_L2regularization.ipynb: contém a implementação passo-a-passo do modelo utilizando também minimização do structural risk e regularização de complexidade via fórmula de regularização L2.
-- 04_linear_regression_neural_network.ipynb: contém a análise de modelos de redes neurais aplicados ao mesmo dataset usado nos outros notebooks.
+- `01_model_implementation_standard.ipynb`: contém a implementação passo-a-passo do modelo de regressão linear utilizando Gradiente Descendente Estocástico com Mini-lotes.
+- `02_validation.ipynb`: contém uma aplicação prática do modelo, apresentando também as funções utilizadas para dividir os dados em training, validation e test.
+- `03_model_implementation_L2regularization.ipynb`: contém a implementação passo-a-passo do modelo utilizando também minimização do structural risk e regularização de complexidade via fórmula de regularização L2.
+- `04_linear_regression_neural_network.ipynb`: contém a análise de modelos de redes neurais aplicados ao mesmo dataset usado nos outros notebooks.
  
 A regressão linear é um dos modelos mais conhecidos no contexto do aprendizado de máquina, resumindo-se à adequação de um modelo linear a dados cujos preditores (features) são altamente correlacionados com o valor que se quer estimar (target). Ela pode ser implementada através do algoritmo de Gradiente Descendente Estocástico: um algoritmo iterativo de otimização dos parâmetros da função de regressão baseado na minimização da função de custo (ou de perda). Essa minimização é feita com o cálculo do gradiente negativo da função de custo em relação aos parâmetros da função de regressão (weights e bias).
 
@@ -37,9 +37,9 @@ Link do artigo associado do Medium: https://medium.com/@samir.silva12342/impleme
  
 Há dois notebooks na pasta logistic_regression:
 
-- 01_logistic_regression_sklearn.ipynb: nele, realizei a aplicação passo-a-passo das boas práticas de feature engineering no dataset 'Covid Data', disponível no Kaggle e apliquei um modelo de regressão logística aos dados para prever pacientes de alto risco de óbito devido à Covid-19, utilizando a biblioteca 'scikit-learn', do Python.
+- `01_logistic_regression_sklearn.ipynb`: nele, realizei a aplicação passo-a-passo das boas práticas de feature engineering no dataset 'Covid Data', disponível no Kaggle e apliquei um modelo de regressão logística aos dados para prever pacientes de alto risco de óbito devido à Covid-19, utilizando a biblioteca 'scikit-learn', do Python.
 
-- 02_logistic_regression_implementation.ipynb: neste notebook, realizei, passo-a-passo, a formulação matemática e a implementação em Python de um modelo de regressão logística utilizando regularização L1.
+- `02_logistic_regression_implementation.ipynb`: neste notebook, realizei, passo-a-passo, a formulação matemática e a implementação em Python de um modelo de regressão logística utilizando regularização L1.
 
 A regressão logística é um dos modelos de Machine Learning mais conhecidos e é aplicada quando queremos prever classificações através de probabilidades. Seu princípio envolve a utilização da função de ativação sigmoide na soma ponderada dos valores das features para obtenção de probabilidades que indicarão, ao serem comparadas com um threshold (limiar), qual a classificação final do target naquela situação.
 
